@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Profil Saya</title>
+    <link rel="stylesheet" href="style.css">
+    <style>
+        body {
+    background-color: #f2f2f2;
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: purple;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+main {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+#description p {
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+        ul {
+            list-style-type: none;
+            padding: 0;
+            font-size: medium;
+        }
+        li {
+            margin-bottom: 10px;
+            display: flex; 
+        }
+        li strong {
+            min-width: 80px; 
+        }
+        </style>
+</head>
+<body>
+    <header>
+        <h1> Tentang Saya</h1>
+    </header>
+    <main>
+        <section id="description">
+            <p>Saya adalah salah satu mahasiswa di Politeknik Negri Madiun,saat ini saya menempuh semester 2,sedikit cerita hidup saya,saya anak tunggal yang dari kecil sudah merasakan kebahagiaan,bukan kebahagian tentang harta melainkan karena keluarga lengkap.Dan dimana pada waktu 2021 masa covid lagi merajalela disitulah ibukku dipanggil oleh allah,pada saat itu duniaku hacur aku bingung harus melanjutkan hidup bagaimana jika ditinggal seorang ibu sedangkan dari dulu aku dijuluki anak yang manja yang apa-apa harus ada ibu sekarang dipaksa mandiri,tetapi aku berfikir hidupku masih panjang masih ada bapakku yang harus aku bahagikan .</p>
+        </section>
+    </main>
+</body>
+</html>

@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Hobi Saya</title>
+    <link rel="stylesheet" href="style.css">
+    <style>
+            body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #c98bb4;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+main {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+#hobby-description {
+    margin-bottom: 20px;
+}
+
+#hobby-description h2 {
+    color: #333;
+}
+
+#hobby-description p {
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+#hobby-image {
+    text-align: center;
+}
+
+#hobby-image img {
+    max-width: 100%;
+    height: auto;
+}
+            </style>
+            </head>
+            <body>
+                <header>
+                    <h1>Hobi Saya</h1>
+                </header>
+                <main>
+                    <section id="hobby-description">
+                        <h2>Mendengarkan musik</h2>
+                        <p>Saya sangat senang mendengarkan musik. Saya sangat menikmati lagu-lagu jawa terbaru,bukan hanya lagu jawa saja tetapi lagu pop indonesia hingga lagu barat saya suka.</p>
+                    </section>
+                    <section id="hobby-image">
+                        <img src="gambar9 html.jpg" alt="Mendengarkan musik">
+                    </section>
+                </main>
+            </body>
+            </html>
+        
